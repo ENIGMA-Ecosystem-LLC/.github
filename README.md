@@ -3,29 +3,20 @@
 Building secure, scalable platforms at the intersection of software, infrastructure, and cybersecurity.
 </h3>
 
-<a target="_blank" align="center">
-  <img
-    align="right"
-    top="500"
-    height="280"
-    width="420"
-    alt="Engineering animation"
-    src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-  >
-</a>
-
 <br />
 
 ### 🧩 What is Enigma?
 
-**Enigma** is a technology ecosystem focused on designing and operating **production-grade software platforms** with a strong emphasis on:
+**Enigma** is a technology ecosystem focused on designing and operating
+**production-grade software platforms** with a strong emphasis on:
 
 - Security-first architecture  
 - Cloud & self-hosted infrastructure  
 - Automation, reliability, and scale  
 - Developer experience and operational clarity  
 
-This organization houses the **core engineering work** behind the Enigma platform and its supporting systems.
+This organization houses the **core engineering work** behind the Enigma
+platform and its supporting systems.
 
 ---
 
